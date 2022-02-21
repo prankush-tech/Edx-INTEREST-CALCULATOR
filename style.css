@@ -1,0 +1,28 @@
+body
+ {
+        background-color:rgb(94, 0, 148);
+        font-family:arial narrow;
+        color:white;
+        }
+h1
+{
+        color:rgb(170, 0, 255);
+        }
+.maindiv
+{
+        position:absolute;
+        top :50%;
+         left: 50%;
+        transform: translate(-50%, -50%);
+        background-color:rgb(255, 230, 0);
+        color:black;
+        width:480px;
+        margin: auto;
+	padding:20px;
+        border-radius: 25px;
+}
+table
+{
+
+        margin-left:100px;
+}
